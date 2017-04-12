@@ -4,7 +4,7 @@ Written all in JavaScript. Love it.
 ## How to run
 ```
 $ npm install
-$ cd 2017q/tidy/
+$ cd 2017qual/tidy/
 $ node ./index.js ./input.txt output.txt
 ```
 
